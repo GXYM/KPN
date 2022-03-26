@@ -1,5 +1,5 @@
 # KPN
-The code of *Kernel Proposal Network for Arbitrary Shape Scene Text Detection* for review only.
+The code of *Kernel Proposal Network for Arbitrary Shape Text Detection* accepted by TNNLS 2022.
 
 # Prerequisites
 PyTorch >= 1.2.0
