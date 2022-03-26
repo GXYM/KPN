@@ -1,6 +1,6 @@
 # KPN
-The code of *Kernel Proposal Network for Arbitrary Shape Text Detection* accepted by TNNLS 2022.  
-The paper at: https://arxiv.org/abs/2203.06410
+The code of *Kernel Proposal Network for Arbitrary Shape Text Detection*.  
+The paper has been  accepted by TNNLS 2022, which is available at: https://arxiv.org/abs/2203.06410
 
 # Prerequisites
 PyTorch >= 1.2.0
